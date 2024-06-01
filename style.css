@@ -4,6 +4,11 @@
     padding: 0;
 }
 
+img {
+  max-width: 100%;
+  vertical-align: middle;
+}
+
 /* .container {
     max-width: 1400px;
     margin: 0 auto;
@@ -90,4 +95,14 @@
     padding: 60px 0;
     background-color: #ddd;
   }
+
+  .gap {
+    gap: 80px;
+  }
+
+  .button-bg-color {
+    background-color: #FF3147;
+  }
+
+
   
