@@ -4,10 +4,10 @@
     padding: 0;
 }
 
-.container {
+/* .container {
     max-width: 1400px;
     margin: 0 auto;
-}
+} */
 
 /* .roboto-thin {
     font-family: "Roboto", sans-serif;
@@ -84,4 +84,10 @@
     font-weight: 900;
     font-style: italic;
   } */
+
+  header {
+    text-align: center;
+    padding: 60px 0;
+    background-color: #ddd;
+  }
   
